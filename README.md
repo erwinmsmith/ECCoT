@@ -142,19 +142,10 @@ ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Lar
 Anonymous CogSci submission
 ```
 
-## Citation
-If you use this framework in your research, please cite:
-```
-@article{eccot2025,
-  title={ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Models},
-  author={Anonymous CogSci submission},
-  year={2025}
-}
-```
+
+
 
 ## Contact
-For questions or feedback, please contact [your email address].
+For questions or feedback, please contact 1262214827@qq.com.
 
 ---
-
-This README provides a comprehensive overview of the ECCoT framework, including its features, architecture, setup instructions, and experimental results. It should help users understand and utilize the framework effectively.
