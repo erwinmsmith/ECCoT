@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains the implementation of ECCoT (End-to-End Cognitive Chain of Thought Validation Framework), a framework designed to enhance the effective cognition capabilities of large language models (LLMs) by generating reliable thought chains. ECCoT addresses the challenges of reliability and interpretability in LLMs through structured reasoning chains and validation mechanisms.
 
-![ECCoT Framework](src/fg1.png)
+![ECCoT Framework](src/fig1.png)
 
 ## Key Features
 - **End-to-End Reasoning Chain Validation**: Evaluates and refines reasoning chains in LLMs to improve interpretability and trustworthiness.
