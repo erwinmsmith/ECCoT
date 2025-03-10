@@ -13,10 +13,13 @@ This repository contains the implementation of ECCoT (End-to-End Cognitive Chain
 
 ## Technical Architecture
 The ECCoT framework consists of several key components:
-1. **Theme Recognition**: Uses MRF-ETM to identify topics and keywords in input texts.
-2. **Theme Explanation**: Generates explanations based on recognized topics.
-3. **Thought Cognition**: Creates reasoning chains based on topic-conditioned information.
+1. **Topic Recognition**: Uses MRF-ETM to identify topics and keywords in input texts.
+![MRF-ETM Framework](src/MRF-ETM.png)
+2. **Topic Explanation**: Generates explanations based on recognized topics.
+3. **Thought Cognition**: Creates reasoning chains based on topic-conditioned information and embedding.
+![emb Framework](src/CSBert.png)
 4. **Effective Cognition**: Validates and filters effective cognitive processes using a rank framework.
+![Rank Framework](src/RankFramework.png)
 
 ## Getting Started
 
